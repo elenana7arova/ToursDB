@@ -1,0 +1,30 @@
+PODS:
+  - Realm (10.2.0):
+    - Realm/Headers (= 10.2.0)
+  - Realm/Headers (10.2.0)
+  - RealmSwift (10.2.0):
+    - Realm (= 10.2.0)
+  - SwipeCellKit (2.7.1)
+  - TLCustomMask (2.0.0)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SwipeCellKit
+  - TLCustomMask
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SwipeCellKit
+    - TLCustomMask
+
+SPEC CHECKSUMS:
+  Realm: d7914ebf66bb182469726f997c4c38eff286aab0
+  RealmSwift: aad08b7dc8c732b7b5794286e9df83739bf834f1
+  SwipeCellKit: 3972254a826da74609926daf59b08d6c72e619ea
+  TLCustomMask: 32bcd873851167c2d2a3726b048766b737873710
+
+PODFILE CHECKSUM: 6f2841235626ef7f96d36be2cbf71d851fc86269
+
+COCOAPODS: 1.10.0
