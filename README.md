@@ -6,7 +6,7 @@ It allows you to manipulate with 5 tables: clients, cities, hotels, tours and vo
 Also the tables are connected. For example every hotel is associated with a city, every tour is associated with a hotel and its city. 
 Also vouchers connect clients with tours.
 
-When you delete some connected information it also deletes from associated objects.
+When you delete some connected information it is also deleted from associated objects.
 If you edit some connected information it also affects all of the associated objects.
 
 Made on SWIFT 5 with Realm.
