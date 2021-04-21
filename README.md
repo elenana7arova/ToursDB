@@ -2,7 +2,15 @@
 
 Tour App представляет собой приложение, позволяющее локально хранить данные и совершать 4 базовые операции над ними, а именно: Создание, Чтение, Редактирование и Удаление (CRUD). 
 
-<img src="./screens/4.gif" height="400" />
+<table>
+  <tr>
+    <th><img alt="Gif" src="./screens/4.gif" width="300"></th>
+    <th><img alt="Screenshot 1" src="./screens/1.png" width="300"></th>
+    <th><img alt="Screenshot 2" src="./screens/2.png" width="300"></th>
+    <th><img alt="Screenshot 3" src="./screens/3.png" width="300"></th>
+  </tr>
+</table>
+
 
 ## Особенности
 - В БД реализовано 5 типов объектов: Клиент, Город, Отель, Тур и Ваучер
