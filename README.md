@@ -5,9 +5,9 @@ Tour App представляет собой приложение, позвол�
 <table>
   <tr>
     <th><img alt="Gif" src="./screens/4.gif" width="300"></th>
-    <th><img alt="Screenshot 1" src="./screens/1.png" width="300"></th>
-    <th><img alt="Screenshot 2" src="./screens/2.png" width="300"></th>
-    <th><img alt="Screenshot 3" src="./screens/3.png" width="300"></th>
+    <th><img alt="Screenshot 1" src="./screens/1.PNG" width="300"></th>
+    <th><img alt="Screenshot 2" src="./screens/2.PNG" width="300"></th>
+    <th><img alt="Screenshot 3" src="./screens/3.PNG" width="300"></th>
   </tr>
 </table>
 
